@@ -1,13 +1,25 @@
-- 👋 Hi, I’m Ishmam a Full stack web developer with a keen interest in all things machine learning and AI
-- I am currently working as a Graduate research assistant at COSMOS at University of Arkansas at Little Rock
-- 👀 Looking for Summer 2023 Internships
-I mainly build my web projects with:
- -React
- -NodeJs
- -MongoDB
-I speak JavaScript, TypeScript, Python and a little bit of Java.
+# Ishmam97
 
-Currently working on building an automated Youtube bot for content discovery and analysis
+:octocat: 
+
+**Ishmam** is a passionate software engineer who loves to explore the world of programming and create amazing projects, has a keen interest in all things machine learning and AI
+- currently working as a Graduate research assistant at COSMOS at University of Arkansas at Little Rock
+- 👀 Looking for Summer 2023 Internships 
+
+## Skills
+
+- **Languages**: JavaScript, TypeScript, Python, Java, GO, SQL
+- **Frameworks**: React, Node.js, Next.js, Tensorflow, Keras.
+- **Databases**: MongoDB, SQLite, Firebase, FaunaDB, ElasticSearch
+
+## Education
+
+- **University of Arkansas at Little Rock**: Master's degree in Computer and Information Science
+- **Brac University**: Bachelor's degree in Computer Science
+
+## Interests
+
+In addition to coding, Ishmam is an avid reader, enjoys playing video games, and is always looking to learn new things.
 
 
 <!---
