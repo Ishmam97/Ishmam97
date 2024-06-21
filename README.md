@@ -4,7 +4,7 @@
 
 **Ishmam** is a passionate software engineer who loves to explore the world of programming and create amazing projects, has a keen interest in all things machine learning and AI
 - currently working as a Graduate research assistant at COSMOS at University of Arkansas at Little Rock
-- 👀 Looking for Summer 2023 Internships 
+- 👀 Looking for Full Stack Software Engineering roles
 
 ## Skills
 
