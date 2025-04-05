@@ -9,7 +9,8 @@
 ## Skills
 
 - **Languages**: JavaScript, TypeScript, Python, Java, GO, SQL
-- **Frameworks**: React, Node.js, Next.js, Tensorflow, Keras.
+- **AI & ML**: Tensorflow, Keras, Ollama, Langchain, Langgraph, CrewAI, Pydantic & n8n.
+- **Web - Frameworks**: React, Node.js.
 - **Databases**: MongoDB, SQLite, Firebase, FaunaDB, ElasticSearch
 
 ## Education
